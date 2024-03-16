@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\siddh\\OneDrive\\Documents\\GitHub\\FarFromHome_refugee_project\\FarFromHome\\contracts\\FFH.sol": {
+      "lastModificationDate": 1710354007191,
+      "contentHash": "109e943afe1c68c810d6d0a238a9fe2a",
+      "sourceName": "contracts/FFH.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "FFH"
+      ]
+    }
+  }
+}

@@ -67,11 +67,12 @@ function App() {
   }, []);
   return (
     <div className="App">
+      {/* <div className="nav-img"><img src={logo} alt="logo" className="logo"  /></div> */}
       <header>
         <img src={logo} alt="logo" className="logo" />
         <h1>Far From Home</h1>
       </header>
-      {/* <h2>App for refugees</h2> */}
+      {<h2>App for refugees</h2> }
       <p>Connected Account: {account}</p>
 
       <div className="homepage-content">

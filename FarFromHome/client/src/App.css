@@ -69,11 +69,15 @@ h1 {
   font-size: 14px;
 }
 .actualBalance {
-  max-width: 800px;
+  /* max-width: 1280px;
   margin: auto;
-  padding: 20px;
-  background-color: whitesmoke;
+  padding: 20px; */
   border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: whitesmoke;
+  /* border-radius: 10px; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
 
@@ -85,12 +89,16 @@ h1 {
   margin-bottom: 0;
 }
 .govAccount {
-  max-width: 1000px;
-  /* margin: auto; */
+  /* max-width: 1280px;
+  margin: auto; 
   margin-bottom: 25px;
-  padding: 10px;
-  background-color: white;
+  padding: 10px; */
   border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: white;
+  /* border-radius: 10px; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .govAccount > * {
